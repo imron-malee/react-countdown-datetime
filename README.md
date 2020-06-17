@@ -1,0 +1,2 @@
+# react-countdown-datetime
+MIT
