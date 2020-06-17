@@ -1,2 +1,2 @@
 # react-countdown-datetime
-MIT
+I'm Beginner
